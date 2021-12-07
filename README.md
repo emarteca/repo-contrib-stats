@@ -1,6 +1,7 @@
 # repo-contrib-stats
 
 Given a repo, this script computes, for each contributor across all branches, the total number of commits, lines of code added, and lines of code deleted.
+The output is printed as CSV.
 
 General usage: `./stats.sh [repo link]`
 
